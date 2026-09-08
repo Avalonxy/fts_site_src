@@ -1,0 +1,1059 @@
+{
+  "pageMeta": {
+    "home": { "title": "Software Development & IT Consulting", "description": "Future Tech Corp — software development, IT consulting and cybersecurity. Innovative solutions for business in the APEC region." },
+    "services": { "title": "IT Services", "description": "Web development, mobile apps, cloud, cybersecurity, industrial automation and cryptography. Full range of IT services." },
+    "about": { "title": "About Us", "description": "Future Tech Corp — team of professionals. Our history, values and achievements in software development and IT consulting." },
+    "contacts": { "title": "Contacts", "description": "Contact Future Tech Corp. Offices in Moscow, Irkutsk and Hong Kong. Ready to discuss your project." },
+    "news": { "title": "News & Events", "description": "Latest news from Future Tech Corp: projects, partnerships, technologies and achievements in the IT world." },
+    "reviews": { "title": "Client Reviews", "description": "Company reviews about working with Future Tech Corp. Real cases and quality assessments of our services." },
+    "webDevelopment": { "title": "Web Development", "description": "Building web applications with React, Node.js, Python. Modern technologies and domestic solutions." },
+    "mobileDevelopment": { "title": "Mobile Development", "description": "Native and cross-platform apps for iOS and Android. React Native, Flutter." },
+    "itConsulting": { "title": "IT Consulting", "description": "Strategic planning, IT infrastructure audit and business process optimization for APEC." },
+    "cybersecurity": { "title": "Cybersecurity", "description": "Data protection, security audit, information protection systems. ISO 27001, GOST compliance." },
+    "cloudSolutions": { "title": "Cloud Solutions", "description": "Cloud migration, infrastructure setup. VK Cloud, Yandex, AWS, Azure and hybrid solutions." },
+    "industrialAutomation": { "title": "Industrial Automation", "description": "SCS installation, commissioning and industrial systems integration. SCADA and IoT." },
+    "cryptography": { "title": "Cryptography & Digital Signatures", "description": "EDS implementation, crypto protection, CryptoPro and ViPNet. FSB certification." },
+    "support": { "title": "Support & Maintenance", "description": "24/7 technical support, system monitoring, maintenance. SLA and service levels." }
+  },
+  "common": {
+    "header": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About",
+      "news": "News",
+      "reviews": "Reviews",
+      "contacts": "Contacts",
+      "contact": "Contact Us"
+    },
+    "footer": {
+      "allRightsReserved": "All rights reserved",
+      "contactUs": "Contact Us"
+    },
+    "buttons": {
+      "getConsultation": "Get Consultation",
+      "learnMore": "Learn More",
+      "contactUs": "Contact Us",
+      "allServices": "All Services",
+      "discussProject": "Discuss Project"
+    },
+    "loading": "Loading...",
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "Sorry, the requested page does not exist or has been moved.",
+      "backHome": "Back to Home",
+      "contactSupport": "Contact Support"
+    },
+    "error500": {
+      "title": "Something went wrong",
+      "description": "An unexpected error occurred. We are working to fix it. Please try refreshing the page or come back later.",
+      "tryAgain": "Try again",
+      "backHome": "Back to Home",
+      "contactSupport": "Contact Support"
+    },
+    "meta": {
+      "title": "Future Tech Corp",
+      "description": "Future Tech Corp - your reliable partner in software development, IT consulting and cybersecurity. We create innovative business solutions across the entire Asia-Pacific region (APEC).",
+      "shortDescription": "Your reliable partner in software development, IT consulting and cybersecurity across the entire Asia-Pacific region (APEC)",
+      "keywords": "software development, IT consulting, cybersecurity, software, Future Tech Corp, Asia-Pacific region, APEC, domestic solutions, industrial automation, cryptography, digital signature"
+    }
+  },
+  "home": {
+    "hero": {
+      "tag": "Innovative Solutions",
+      "title": "Software Development and IT Consulting",
+      "subtitle": "Future Tech Corp is your reliable partner in software development, IT consulting and cybersecurity. We create innovative business solutions across the entire Asia-Pacific region (APEC).",
+      "ctaPrimary": "Submit Application",
+      "ctaSecondary": "Learn More About Services"
+    },
+    "services": {
+      "title": "Our Main Directions",
+      "subtitle": "We provide a full range of IT services for your business development with a focus on domestic solutions",
+      "items": {
+        "webDevelopment": {
+          "title": "Web Application Development",
+          "description": "Creating modern web applications using domestic technologies and advanced React, Node.js, Python solutions."
+        },
+        "mobileDevelopment": {
+          "title": "Mobile Development",
+          "description": "Development of native and cross-platform mobile applications for iOS and Android with integration of domestic services."
+        },
+        "itConsulting": {
+          "title": "IT Consulting",
+          "description": "Strategic planning, IT infrastructure audit and business process optimization for Asia-Pacific region companies."
+        },
+        "cybersecurity": {
+          "title": "Cybersecurity",
+          "description": "Data protection, security audit, implementation of information security systems and cryptographic solutions."
+        },
+        "cloudSolutions": {
+          "title": "Cloud Solutions",
+          "description": "Cloud migration, setup and optimization of cloud infrastructure using domestic cloud platforms."
+        },
+        "industrialAutomation": {
+          "title": "Industrial Automation",
+          "description": "Industrial SCS installation, commissioning of complex technical solutions and integration of industrial systems."
+        },
+        "cryptography": {
+          "title": "Cryptography and Digital Signature",
+          "description": "Implementation of cryptographic solutions, electronic digital signature and work with crypto providers."
+        },
+        "support": {
+          "title": "Support and Maintenance",
+          "description": "Technical support, monitoring and maintenance of IT systems with 24/7 support."
+        }
+      }
+    },
+    "reviews": {
+      "title": "Customer Reviews",
+      "subtitle": "What our satisfied customers say about us",
+      "viewAll": "All Reviews",
+      "items": [
+        {
+          "name": "Alexander Petrov",
+          "company": "JSC \"FPK\" (Subsidiary of Russian Railways)",
+          "text": "Excellent work by the Future Tech Corp team! The project was completed on time and with high quality. I was especially impressed by the level of expertise in industrial automation.",
+          "rating": 5
+        },
+        {
+          "name": "Maria Sidorova",
+          "company": "LLC \"KO-BIT\"",
+          "text": "Professional approach to solving problems. Thank you for quality work and attention to detail. We recommend as a reliable partner.",
+          "rating": 5
+        },
+        {
+          "name": "Dmitry Kozlov",
+          "company": "LLC \"Adrenaline\"",
+          "text": "The team showed a high level of expertise in cybersecurity. The project was successfully implemented.",
+          "rating": 5
+        },
+        {
+          "name": "Li Wei",
+          "company": "Knut Industries",
+          "text": "Future Tech Corp demonstrated deep understanding of the Asian market and high level of technical expertise. Excellent cooperation!",
+          "rating": 5
+        },
+        {
+          "name": "Anna Kim",
+          "company": "UTair",
+          "text": "Professional team with deep knowledge in aviation IT infrastructure. The project was completed at the highest level.",
+          "rating": 5
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Start a Project?",
+      "subtitle": "Contact us to discuss your tasks and get a free consultation. We work across the entire Asia-Pacific region (APEC).",
+      "button": "Get Consultation"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "We provide a full range of IT services for your business development with a focus on domestic solutions. From development to support - we are with you at every stage. We work across the entire Asia-Pacific region (APEC)."
+    },
+    "cta": {
+      "title": "Need consultation on services?",
+      "subtitle": "Contact us to discuss your tasks and get a personal offer",
+      "button": "Contact Us"
+    },
+    "cryptography": {
+      "title": "Cryptography and Digital Signatures",
+      "subtitle": "Implementation of cryptographic solutions, EDS and data protection for business",
+      "features": {
+        "title": "Key Directions",
+        "items": "Electronic Digital Signature, Cryptographic Protection, Work with Crypto Providers, Certification and Licensing"
+      },
+      "areas": {
+        "title": "Cryptography Areas",
+        "items": [
+          {
+            "area": "Electronic Signature",
+            "description": "Implementation and configuration of digital signatures",
+            "services": ["EDS setup", "System integration", "Staff training"]
+          },
+          {
+            "area": "Cryptographic Protection",
+            "description": "Data and communications protection using encryption",
+            "services": ["Data encryption", "Secure channels", "Key management"]
+          },
+          {
+            "area": "Crypto Providers",
+            "description": "Integration of domestic and international crypto providers",
+            "services": ["CryptoPro", "ViPNet", "FSB certification", "Support"]
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready to protect your data?",
+        "subtitle": "Contact us to discuss your cryptographic protection tasks",
+        "button": "Discuss Project"
+      }
+    },
+    "industrialAutomation": {
+      "title": "Industrial Automation",
+      "subtitle": "SCS installation, commissioning and integration of industrial systems",
+      "features": {
+        "title": "What We Do",
+        "items": "Industrial SCS Installation, Commissioning, System Integration, Ensuring Fault Tolerance"
+      },
+      "areas": {
+        "title": "Automation Areas",
+        "items": [
+          {
+            "area": "SCS Installation",
+            "description": "Structured cabling systems construction",
+            "services": ["Design", "Cable laying", "Testing", "Documentation"]
+          },
+          {
+            "area": "Commissioning",
+            "description": "Equipment startup and configuration",
+            "services": ["SCADA setup", "Sensor calibration", "Testing", "Handover"]
+          },
+          {
+            "area": "System Integration",
+            "description": "Integration of industrial and IT systems",
+            "services": ["OPC/DCOM", "IEC 61850", "SCADA integration", "Monitoring"]
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready to automate production?",
+        "subtitle": "Contact us to discuss your tasks",
+        "button": "Discuss Project"
+      }
+    }
+  },
+  "webDevelopment": {
+    "hero": {
+      "title": "Web Development",
+      "subtitle": "Creating modern web applications using advanced technologies and domestic solutions"
+    },
+    "features": {
+      "title": "Modern Web Solutions",
+      "description": "We create high-load web applications using advanced technologies and domestic solutions. We specialize in working with companies in the Asia-Pacific region (APEC).",
+      "items": [
+        "Frontend development on React, Vue.js, Angular",
+        "Backend on Node.js, Python, Java",
+        "Integration with domestic services"
+      ]
+    },
+    "technologies": {
+      "title": "Technologies and Tools"
+    },
+    "process": {
+      "title": "Development Process",
+      "steps": [
+        "Analysis - We study requirements and plan architecture",
+        "Design - We create UI/UX and technical documentation",
+        "Development - We write code and integrate components",
+        "Testing - We conduct QA and optimize performance"
+      ]
+    },
+    "cta": {
+      "title": "Ready to create a modern web application?",
+      "subtitle": "Contact us to discuss your project and get consultation",
+      "button": "Discuss Project"
+    }
+  },
+  "mobileDevelopment": {
+    "hero": {
+      "title": "Mobile Development",
+      "subtitle": "Development of native and cross-platform mobile applications for iOS and Android"
+    },
+    "features": {
+      "title": "Mobile Applications for All Platforms",
+      "description": "We develop native and cross-platform mobile applications for iOS and Android. We integrate domestic services and adapt solutions to APEC region requirements.",
+      "items": [
+        "iOS development on Swift and Objective-C",
+        "Android development on Kotlin and Java",
+        "Cross-platform development on React Native, Flutter"
+      ]
+    },
+    "platforms": {
+      "title": "Platforms and Technologies",
+      "items": [
+        {
+          "platform": "iOS",
+          "features": ["Swift", "Objective-C", "Xcode", "App Store"],
+          "description": "Native applications for iPhone and iPad"
+        },
+        {
+          "platform": "Android",
+          "features": ["Kotlin", "Java", "Android Studio", "Google Play"],
+          "description": "Native applications for Android devices"
+        },
+        {
+          "platform": "Cross-Platform",
+          "features": ["React Native", "Flutter", "Xamarin", "Ionic"],
+          "description": "Single code for all platforms"
+        }
+      ]
+    },
+    "process": {
+      "title": "Development Process",
+      "steps": [
+        "Analysis - We study requirements and choose platform",
+        "Design - We create UI/UX for mobile devices",
+        "Development - We write code and integrate APIs",
+        "Testing - We test on real devices",
+        "Publication - We publish to App Store and Google Play"
+      ]
+    },
+    "cta": {
+      "title": "Ready to create a mobile application?",
+      "subtitle": "Contact us to discuss your mobile project",
+      "button": "Discuss Project"
+    }
+  },
+  "itConsulting": {
+    "hero": {
+      "title": "IT Consulting",
+      "subtitle": "Strategic IT infrastructure planning and business process optimization"
+    },
+    "features": {
+      "title": "Strategic IT Infrastructure Planning",
+      "description": "We help companies in the Asia-Pacific region (APEC) optimize IT processes and implement modern technologies to improve business efficiency.",
+      "items": [
+        "Audit of existing IT infrastructure",
+        "Strategic digital transformation planning",
+        "Business process optimization"
+      ]
+    },
+    "areas": {
+      "title": "Consulting Areas",
+      "items": [
+        {
+          "area": "IT Strategy",
+          "description": "Development of long-term IT strategy for your company",
+          "services": ["Current state analysis", "Development planning", "Risk assessment"]
+        },
+        {
+          "area": "Architecture",
+          "description": "Enterprise IT architecture design",
+          "services": ["Microservices architecture", "Cloud solutions", "System integration"]
+        },
+        {
+          "area": "Security",
+          "description": "IT security audit and improvement",
+          "services": ["Vulnerability assessment", "Security policies", "Compliance with standards"]
+        }
+      ]
+    },
+    "apec": {
+      "title": "APEC Region Specialization",
+      "description": "We deeply understand the peculiarities of doing business in Asia-Pacific countries and adapt our solutions to local requirements and standards.",
+      "regions": [
+        "China and Hong Kong",
+        "Japan and South Korea",
+        "Singapore and Malaysia",
+        "Australia and New Zealand"
+      ]
+    },
+    "process": {
+      "title": "Consulting Process",
+      "steps": [
+        "Diagnostics - We analyze current IT state",
+        "Planning - We develop development strategy",
+        "Implementation - We help implement changes",
+        "Support - We provide long-term support"
+      ]
+    },
+    "cta": {
+      "title": "Need IT strategy consultation?",
+      "subtitle": "Contact us to get professional consultation",
+      "button": "Get Consultation"
+    }
+  },
+  "cybersecurity": {
+    "hero": {
+      "title": "Cybersecurity",
+      "subtitle": "Protection against modern cyber threats and information security"
+    },
+    "features": {
+      "title": "Protection Against Modern Cyber Threats",
+      "description": "We provide comprehensive protection of data and information systems. We implement domestic solutions and adapt to APEC region requirements.",
+      "items": [
+        "Audit of information system security",
+        "Implementation of information protection systems",
+        "Cryptographic solutions and digital signatures"
+      ]
+    },
+    "services": {
+      "title": "Cybersecurity Services",
+      "items": [
+        {
+          "service": "Security Audit",
+          "description": "Comprehensive assessment of IT infrastructure security",
+          "features": ["Penetration testing", "Vulnerability analysis", "Risk assessment"]
+        },
+        {
+          "service": "Data Protection",
+          "description": "Implementation of confidential information protection systems",
+          "features": ["Data encryption", "DLP systems", "Access control"]
+        },
+        {
+          "service": "Threat Monitoring",
+          "description": "Round-the-clock monitoring and incident response",
+          "features": ["SIEM systems", "Threat analysis", "Quick response"]
+        }
+      ]
+    },
+    "compliance": {
+      "title": "Compliance with Standards and Requirements",
+      "standards": [
+        { "name": "ISO 27001", "description": "Information security management systems" },
+        { "name": "GOST R", "description": "Russian information security standards" },
+        { "name": "GDPR", "description": "Personal data protection in EU" },
+        { "name": "APEC", "description": "Asia-Pacific region requirements" }
+      ]
+    },
+    "process": {
+      "title": "Security Provision Process",
+      "steps": [
+        "Analysis - We assess current risks",
+        "Planning - We develop protection strategy",
+        "Implementation - We install protection systems",
+        "Testing - We check effectiveness",
+        "Monitoring - We control security"
+      ]
+    },
+    "cta": {
+      "title": "Ready to protect your business?",
+      "subtitle": "Contact us for security audit and consultation",
+      "button": "Get Consultation"
+    }
+  },
+  "cloudSolutions": {
+    "hero": {
+      "title": "Cloud Solutions",
+      "subtitle": "Cloud migration and cloud infrastructure optimization"
+    },
+    "features": {
+      "title": "Cloud Migration and Optimization",
+      "description": "We help companies transition to the cloud, optimize cloud infrastructure and use domestic cloud platforms to improve efficiency.",
+      "items": [
+        "Migration of existing systems to cloud",
+        "Setup and optimization of cloud infrastructure",
+        "Use of domestic cloud platforms"
+      ]
+    },
+    "platforms": {
+      "title": "Cloud Platforms",
+      "items": [
+        {
+          "platform": "Domestic",
+          "icon": "🇷🇺",
+          "description": "We use Russian cloud solutions",
+          "services": ["VK Cloud", "Yandex Cloud", "SberCloud", "MTS Cloud"]
+        },
+        {
+          "platform": "International",
+          "icon": "🌍",
+          "description": "Integration with foreign platforms",
+          "services": ["AWS", "Microsoft Azure", "Google Cloud", "Alibaba Cloud"]
+        },
+        {
+          "platform": "Hybrid",
+          "icon": "🔗",
+          "description": "We combine different cloud solutions",
+          "services": ["Multi-cloud", "System integration", "Data migration", "Backup"]
+        }
+      ]
+    },
+    "services": {
+      "title": "Cloud Services",
+      "items": [
+        {
+          "service": "Cloud migration",
+          "icon": "🚀",
+          "description": "We help move your systems to the cloud environment",
+          "steps": ["Current infrastructure analysis", "Migration planning", "Phased transfer", "Testing and optimization"]
+        },
+        {
+          "service": "Cloud infrastructure",
+          "icon": "🏗️",
+          "description": "We build and configure cloud infrastructure",
+          "steps": ["Architecture design", "Service deployment", "Security configuration", "Monitoring and support"]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Cloud Solution Benefits",
+      "items": [
+        { "benefit": "Scalability", "description": "Easily increase resources as you grow" },
+        { "benefit": "Cost Savings", "description": "Reduce IT infrastructure costs" },
+        { "benefit": "Security", "description": "Increase data protection level" },
+        { "benefit": "Accessibility", "description": "Provide access from anywhere in the world" }
+      ]
+    },
+    "migration": {
+      "title": "Cloud Migration Process",
+      "steps": [
+        "Analysis - We study current infrastructure",
+        "Planning - We develop migration strategy",
+        "Preparation - We prepare cloud environment",
+        "Migration - We migrate systems step by step",
+        "Testing - We check functionality",
+        "Optimization - We configure performance"
+      ]
+    },
+    "cta": {
+      "title": "Ready to move to the cloud?",
+      "subtitle": "Contact us for cloud solution consultation",
+      "button": "Get Consultation"
+    }
+  },
+  "support": {
+    "hero": {
+      "title": "Support and Maintenance",
+      "subtitle": "24/7 technical support and IT system maintenance"
+    },
+    "features": {
+      "title": "24/7 Technical Support",
+      "description": "We provide round-the-clock support and maintenance of IT systems. Monitoring, prevention and quick problem resolution for uninterrupted operation of your business.",
+      "items": [
+        "Round-the-clock system monitoring",
+        "Preventive maintenance",
+        "Quick response to incidents"
+      ]
+    },
+    "services": {
+      "title": "Support Services",
+      "items": [
+        {
+          "service": "Technical Support",
+          "description": "Technical problem solving and consultations",
+          "features": ["Remote support", "Phone consultations", "Online chat", "Email support"]
+        },
+        {
+          "service": "System Monitoring",
+          "description": "Round-the-clock system operation control",
+          "features": ["Performance monitoring", "Problem alerts", "Event logging", "Status reports"]
+        },
+        {
+          "service": "Preventive Maintenance",
+          "description": "Scheduled maintenance and updates",
+          "features": ["Scheduled inspections", "Software updates", "System cleanup", "Performance optimization"]
+        }
+      ]
+    },
+    "levels": {
+      "title": "Support Levels",
+      "items": [
+        { "level": "Basic", "response": "24 hours", "description": "Email support, knowledge base" },
+        { "level": "Standard", "response": "8 hours", "description": "Phone support, remote access" },
+        { "level": "Premium", "response": "4 hours", "description": "Priority support, dedicated engineer" },
+        { "level": "VIP", "response": "1 hour", "description": "Round-the-clock support, SLA guarantees" }
+      ]
+    },
+    "monitoring": {
+      "title": "Monitoring and Reporting",
+      "description": "We provide detailed information about the state of your systems and the quality of our services",
+      "metrics": [
+        { "metric": "Response Time", "value": "< 15 min" },
+        { "metric": "Availability", "value": "99.9%" },
+        { "metric": "Resolution Time", "value": "< 4 hours" },
+        { "metric": "Satisfaction", "value": "98%" }
+      ]
+    },
+    "process": {
+      "title": "Support Process",
+      "steps": [
+        "Request - We receive support request",
+        "Classification - We determine priority and category",
+        "Assignment - We assign responsible engineer",
+        "Resolution - We perform necessary work",
+        "Closure - We check result and close ticket"
+      ]
+    },
+    "cta": {
+      "title": "Need reliable support?",
+      "subtitle": "Contact us to discuss support terms for your systems",
+      "button": "Discuss Support"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Company",
+      "subtitle": "Future Tech Corp is a team of professionals creating innovative IT solutions for your business development"
+    },
+    "story": {
+      "title": "Our Story",
+      "text1": "Future Tech Corp was founded in 2018 by a group of experienced IT specialists with the goal of creating quality technological solutions for business.",
+      "text2": "Over the years, we have implemented more than 50 projects of varying complexity, from simple websites to complex corporate systems and mobile applications. We specialize in working with Asia-Pacific region (APEC) companies.",
+      "text3": "Our mission is to help companies grow and develop using modern technologies, best development practices and domestic solutions.",
+      "highlight": {
+        "title": "From Startup to Leader",
+        "text": "We started as a small team of developers, today we are a reliable partner for companies of any size."
+      }
+    },
+    "stats": {
+      "title": "Numbers Speak for Themselves",
+      "subtitle": "Our achievements in numbers",
+      "projects": "Completed Projects",
+      "experience": "Years of Experience",
+      "clients": "Satisfied Clients",
+      "support": "Support"
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "Principles that guide us in our work",
+      "quality": {
+        "title": "Quality",
+        "description": "We don't compromise on quality. Every project is completed with maximum attention to detail."
+      },
+      "reliability": {
+        "title": "Reliability",
+        "description": "We build long-term relationships with clients based on trust and fulfillment of obligations."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We constantly monitor new technologies and implement them in our solutions for clients."
+      },
+      "result": {
+        "title": "Result",
+        "description": "We focus on achieving measurable results and business value for our clients."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Professionals with years of experience in the IT industry",
+      "members": [
+        {
+          "name": "Goncharov Danila",
+          "position": "CEO & Founder",
+          "description": "15+ years of experience in IT industry, expert in enterprise solutions",
+          "photo": "/images/team/ceo_main.jpg"
+        },
+        {
+          "name": "Maria Rainer",
+          "position": "CTO",
+          "description": "Expert in cloud technologies and industrial automation",
+          "photo": "/images/team/team-1.jpg"
+        },
+        {
+          "name": "Dmitry Verkhosin",
+          "position": "Head of Development",
+          "description": "Full-stack developer with expertise in modern frameworks",
+          "photo": "/images/team/team-3.jpg"
+        }
+      ]
+    },
+    "clients": {
+      "title": "Our Clients",
+      "subtitle": "Companies from various industries and regions trust us with their projects",
+      "items": [
+        {
+          "name": "JSC \"FPK\" (Subsidiary of Russian Railways)",
+          "description": "Industrial automation and SCS installation for railway infrastructure"
+        },
+        {
+          "name": "LLC \"KO-BIT\"",
+          "description": "IT consulting and digital transformation services"
+        },
+        {
+          "name": "LLC \"Adrenaline\"",
+          "description": "Cybersecurity and information protection systems"
+        },
+        {
+          "name": "Knut Industries (Hong Kong)",
+          "description": "Cloud solutions and mobile application development"
+        },
+        {
+          "name": "UTair",
+          "description": "Aviation IT infrastructure and system integration"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Work with Us?",
+      "subtitle": "Join the number of satisfied Future Tech Corp clients. We work across the entire Asia-Pacific region (APEC). Let's create something amazing together!",
+      "contact": "Contact Us",
+      "services": "Our Services"
+    }
+  },
+  "industrialAutomation": {
+    "hero": {
+      "tag": "Industrial Solutions",
+      "title": "Industrial Automation",
+      "subtitle": "We specialize in industrial SCS installation, commissioning of complex technical solutions and integration of industrial systems for Asia-Pacific region enterprises.",
+      "ctaPrimary": "Get Consultation",
+      "ctaSecondary": "All Services"
+    },
+    "services": {
+      "title": "Our Services in Industrial Automation",
+      "subtitle": "Full range of services for industrial process automation",
+      "items": {
+        "cabling": {
+          "title": "Industrial SCS Installation",
+          "description": "Design and installation of structured cabling systems for industrial facilities, including factories, plants and production complexes.",
+          "features": [
+            "SCS design for industrial conditions",
+            "Cable route and cable installation",
+            "Installation and configuration of active equipment",
+            "SCS testing and certification"
+          ]
+        },
+        "commissioning": {
+          "title": "Commissioning of Complex Systems",
+          "description": "Commissioning and commissioning of technically complex solutions for industrial automation.",
+          "features": [
+            "Configuration of industrial controllers",
+            "SCADA system integration",
+            "Industrial network configuration",
+            "System testing and validation"
+          ]
+        },
+        "integration": {
+          "title": "Industrial System Integration",
+          "description": "Combining various industrial systems into a unified automated production management environment.",
+          "features": [
+            "Integration with existing systems",
+            "Creating a unified control panel",
+            "Configuring data exchange protocols",
+            "Ensuring fault tolerance"
+          ]
+        }
+      }
+    },
+    "advantages": {
+      "title": "Why Choose Us",
+      "subtitle": "Our advantages in industrial automation",
+      "items": [
+        "Experience working with large industrial facilities",
+        "Certified specialists in industrial automation",
+        "Use of domestic and imported solutions",
+        "Full cycle from design to commissioning",
+        "24/7 technical support after launch"
+      ]
+    },
+    "cta": {
+      "title": "Ready to Automate Production?",
+      "subtitle": "Contact us to discuss your industrial automation tasks",
+      "button": "Discuss Project"
+    }
+  },
+  "mainServices": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "We provide a full range of IT services for your business development with a focus on domestic solutions. From development to support - we are with you at every stage. We work across the entire Asia-Pacific region (APEC)."
+    },
+    "cta": {
+      "title": "Need consultation on services?",
+      "subtitle": "Contact us to discuss your tasks and get professional consultation",
+      "button": "Get Consultation"
+    }
+  },
+  "cryptography": {
+    "hero": {
+      "tag": "Cryptographic Solutions",
+      "title": "Cryptography and Digital Signatures",
+      "subtitle": "Implementation of cryptographic solutions, electronic digital signatures and work with crypto providers to ensure information security of your business.",
+      "ctaPrimary": "Get Consultation",
+      "ctaSecondary": "All Services"
+    },
+    "services": {
+      "title": "Our Services in Cryptography",
+      "subtitle": "Full range of cryptographic solutions for your security",
+      "items": {
+        "ecp": {
+          "title": "Electronic Digital Signature (EDS)",
+          "description": "Implementation and configuration of electronic digital signature systems to ensure legal significance of electronic documents.",
+          "features": [
+            "Selection and configuration of crypto providers",
+            "Integration with existing systems",
+            "Configuration of certificates and keys",
+            "Staff training on EDS work"
+          ]
+        },
+        "protection": {
+          "title": "Cryptographic Protection",
+          "description": "Implementation of cryptographic solutions to protect confidential information and ensure information security.",
+          "features": [
+            "Data and communication channel encryption",
+            "API and web service protection",
+            "VPN and secure connection configuration",
+            "Cryptographic protection audit"
+          ]
+        },
+        "providers": {
+          "title": "Working with Crypto Providers",
+          "description": "Integration and configuration of domestic and foreign crypto providers for various tasks.",
+          "features": [
+            "Integration with CryptoPro, VipNet",
+            "Configuration of foreign providers",
+            "Migration between crypto providers",
+            "Technical support and updates"
+          ]
+        },
+        "certification": {
+          "title": "Certification and Licensing",
+          "description": "Assistance in obtaining necessary licenses and certificates for working with cryptographic means.",
+          "features": [
+            "Preparation for FSB certification",
+            "Obtaining cryptography licenses",
+            "Compliance audit",
+            "Support during inspections"
+          ]
+        }
+      }
+    },
+    "useCases": {
+      "title": "Application of Our Solutions",
+      "subtitle": "Cryptographic solutions for various industries",
+      "items": {
+        "banking": {
+          "title": "Banking Sector",
+          "description": "Protection of banking transactions, EDS for document management, cryptographic protection of APIs."
+        },
+        "government": {
+          "title": "Government Sector",
+          "description": "EDS for electronic document management, protection of government information systems."
+        },
+        "corporate": {
+          "title": "Corporate Sector",
+          "description": "Protection of corporate information, EDS for contracts, cryptographic protection of cloud solutions."
+        },
+        "apec": {
+          "title": "Asia-Pacific Region",
+          "description": "Adaptation of solutions to APEC requirements, integration with local cryptographic standards."
+        }
+      }
+    },
+    "advantages": {
+      "title": "Why Choose Us",
+      "subtitle": "Our advantages in cryptography",
+      "items": [
+        "Experience working with domestic crypto providers",
+        "Certified specialists in cryptography",
+        "Compliance with Russian legislation requirements",
+        "Integration with foreign solutions",
+        "Full cycle of implementation and support"
+      ]
+    },
+    "cta": {
+      "title": "Ready to Protect Your Data?",
+      "subtitle": "Contact us to discuss your cryptographic protection tasks",
+      "button": "Discuss Project"
+    }
+  },
+  "reviews": {
+    "hero": {
+      "title": "Customer Reviews",
+      "subtitle": "What our satisfied customers say about us. We are proud of every project and grateful for the trust of our partners."
+    },
+    "section": {
+      "title": "Customer Reviews",
+      "subtitle": "Real reviews from our customers about work quality and project results"
+    },
+    "verified": "Verified Review",
+    "stats": {
+      "title": "Our Achievements",
+      "subtitle": "Numbers that speak about the quality of our services",
+      "satisfaction": "Satisfied Clients",
+      "projects": "Completed Projects",
+      "clients": "Regular Clients",
+      "rating": "Average Rating"
+    },
+    "cta": {
+      "title": "Become the Next Satisfied Client!",
+      "subtitle": "Join the companies that have already appreciated the quality of our services and the professionalism of our team",
+      "contact": "Submit Application",
+      "services": "Our Services"
+    }
+  },
+  "news": {
+    "hero": {
+      "title": "News and Events",
+      "subtitle": "Stay up to date with the latest Future Tech Corporation news, our projects and achievements in the world of technology"
+    },
+    "categories": {
+      "all": "All",
+      "business": "Business",
+      "technology": "Technology",
+      "partnerships": "Partnerships",
+      "innovation": "Innovation",
+      "aviation": "Aviation",
+      "certification": "Certification"
+    },
+    "featured": {
+      "title": "Featured News",
+      "subtitle": "The most important and interesting from the world of technology and our projects",
+      "featured": "Featured"
+    },
+    "readMore": "Read More",
+    "loadMore": "Load More",
+    "newsletter": {
+      "title": "Subscribe to News",
+      "subtitle": "Get fresh news and useful materials directly to your email",
+      "placeholder": "your@email.com",
+      "subscribe": "Subscribe"
+    },
+    "backToNews": "Back to News",
+    "viewServices": "Our Services",
+    "contactUs": "Contact Us",
+    "related": {
+      "title": "Related News",
+      "subtitle": "You might be interested in these articles",
+      "comingSoon": "Related news will appear here soon"
+    },
+    "notFound": {
+      "title": "News Not Found",
+      "subtitle": "The requested news does not exist or has been deleted."
+    },
+    "cta": {
+      "title": "Ready to Cooperate?",
+      "subtitle": "Contact us to discuss your projects and get consultation",
+      "contact": "Contact Us",
+      "services": "Our Services"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Future Tech Corp Launches New Office in Hong Kong",
+        "excerpt": "Expanding presence in the Asia-Pacific region for better APEC client service",
+        "category": "business",
+        "date": "2025-01-15",
+        "image": "/images/news/news-img-1.jpg",
+        "featured": true,
+        "content": "Future Tech Corp announces the opening of a new office in Hong Kong, which will allow us to better serve clients in the Asia-Pacific region (APEC). The new office will become the center of our operations in the region and allow us to work more effectively with local partners and clients.\n\nThe opening of the office in Hong Kong is part of our strategy to expand presence in key APEC regions. We plan to hire local specialists and establish close ties with local technology communities.\n\nThis step will allow us to offer more personalized services to clients in the region and accelerate the implementation of our solutions."
+      },
+      {
+        "id": 2,
+        "title": "New Technologies in Cybersecurity",
+        "excerpt": "Implementing advanced data protection solutions in accordance with international standards",
+        "category": "technology",
+        "date": "2025-01-10",
+        "image": "/images/news/news-img-2.jpg",
+        "featured": false,
+        "content": "Future Tech Corp is implementing cutting-edge technologies in cybersecurity, including machine learning for threat detection, behavioral analysis, and advanced encryption methods.\n\nOur solutions comply with international security standards, including ISO 27001, NIST Cybersecurity Framework, and APEC region regulatory requirements. We use domestic cryptographic algorithms combined with foreign technologies to ensure maximum protection.\n\nKey features of our solutions include automatic anomaly detection, intelligent threat analysis, and integration with existing client security systems."
+      },
+      {
+        "id": 3,
+        "title": "Partnership with Leading Cloud Providers",
+        "excerpt": "Expanding cloud solution capabilities for our clients",
+        "category": "partnerships",
+        "date": "2025-01-05",
+        "image": "/images/news/news-img-3.jpg",
+        "featured": false,
+        "content": "We are expanding our partner network with leading cloud providers, including domestic platforms and international solutions. This allows our clients to choose optimal cloud solutions for their tasks.\n\nOur partnerships cover various cloud services: from infrastructure solutions to specialized platforms for machine learning and analytics. We ensure seamless integration between different cloud platforms.\n\nFor APEC region clients, we offer hybrid solutions combining local cloud platforms with international services to ensure compliance with local requirements and performance optimization."
+      },
+      {
+        "id": 4,
+        "title": "Innovative Solutions for Aviation Industry",
+        "excerpt": "Developing specialized IT solutions for airlines",
+        "category": "aviation",
+        "date": "2024-12-28",
+        "image": "/images/news/news-img-4.jpg",
+        "featured": false,
+        "content": "Future Tech Corp develops specialized IT solutions for the aviation industry, including flight management systems, data analytics, and security enhancement solutions.\n\nOur aviation solutions include intelligent route planning systems, fuel efficiency optimization, and integration with international aviation security systems. We work with leading airlines in the APEC region.\n\nKey projects include developing systems for flight data analysis, integration with meteorological services, and creating platforms for passenger experience management."
+      },
+      {
+        "id": 5,
+        "title": "Obtaining ISO 27001 Certification",
+        "excerpt": "Confirming high level of information security",
+        "category": "certification",
+        "date": "2024-12-20",
+        "image": "/images/news/news-img-5.jpg",
+        "featured": false,
+        "content": "Future Tech Corp has successfully passed ISO 27001 certification, confirming our high level of information security and risk management.\n\nISO 27001 certification demonstrates to our clients that we comply with international information security standards. This is especially important for working with clients in the APEC region, where data security requirements are constantly tightening.\n\nOur information security management system includes regular audits, staff training, and continuous process improvement. We are also ready to help our clients obtain similar certifications."
+      },
+      {
+        "id": 6,
+        "title": "New Capabilities in Industrial Automation",
+        "excerpt": "Implementing modern solutions for production process automation",
+        "category": "innovation",
+        "date": "2024-12-15",
+        "image": "/images/news/news-img-6.jpg",
+        "featured": false,
+        "content": "We are expanding capabilities in industrial automation by implementing modern technologies, including IoT, machine learning, and digital twins of production processes.\n\nOur industrial automation solutions include real-time equipment monitoring systems, predictive analytics for downtime prevention, and integration with existing industrial systems.\n\nWe work with enterprises in various industries: from oil and gas to mechanical engineering. Our solutions are adapted to meet Russian and international industrial automation standards."
+      },
+      {
+        "id": 7,
+        "title": "Development of Mobile Solutions for APEC Region",
+        "excerpt": "Adapting mobile applications to Asian market requirements",
+        "category": "technology",
+        "date": "2024-12-10",
+        "image": "/images/news/news-img-7.jpg",
+        "featured": false,
+        "content": "Future Tech Corp is actively developing mobile solutions adapted to Asian market requirements. We consider local user characteristics, including language preferences and cultural features.\n\nOur mobile solutions include e-commerce applications, financial services, and corporate tools. We use modern development technologies, including React Native and Flutter for cross-platform development.\n\nFor the APEC region, we develop solutions supporting local payment systems, integration with popular messengers, and adaptation to various screen sizes popular in the region."
+      },
+      {
+        "id": 8,
+        "title": "Strategic Partnership with Russian IT Companies",
+        "excerpt": "Strengthening positions in the Russian IT services market",
+        "category": "partnerships",
+        "date": "2024-12-05",
+        "image": "/images/news/news-img-8.jpg",
+        "featured": false,
+        "content": "We are strengthening strategic partnerships with leading Russian IT companies for joint development of innovative solutions and expanding presence in the Russian market.\n\nOur partnerships include joint development of domestic technological solutions, expertise exchange, and joint participation in major government and corporate projects.\n\nWe focus on developing solutions that meet import substitution requirements while maintaining compatibility with international standards. This allows our clients to receive the best available solutions."
+      },
+      {
+        "id": 9,
+        "title": "Innovations in Cryptography and EDS",
+        "excerpt": "Developing new solutions for digital signatures and encryption",
+        "category": "innovation",
+        "date": "2024-11-28",
+        "image": "/images/news/news-img-9.jpg",
+        "featured": false,
+        "content": "Future Tech Corp develops innovative solutions in cryptography and electronic digital signatures, including quantum-resistant algorithms and new authentication methods.\n\nOur cryptographic solutions include key management systems, integration with domestic crypto providers, and development of specialized cryptographic protocols for various industries.\n\nWe work on solutions that will be resistant to future threats, including quantum computing. Our developments include hybrid cryptographic systems combining classical and post-quantum algorithms."
+      },
+      {
+        "id": 10,
+        "title": "Expanding Development Team",
+        "excerpt": "Inviting talented specialists to join our team",
+        "category": "business",
+        "date": "2024-11-20",
+        "image": "/images/news/news-img-10.jpg",
+        "featured": false,
+        "content": "Future Tech Corp is actively expanding its development team, inviting talented specialists to join our team. We are looking for professionals in various fields: from frontend and backend development to machine learning and cybersecurity specialists.\n\nWe offer competitive working conditions, opportunities to work with modern technologies, and participation in interesting international projects. Our team works both in offices and remotely, providing flexibility for employees.\n\nWe pay special attention to specialist development, providing opportunities for training, conference participation, and work with cutting-edge technologies. We also actively collaborate with leading technical universities to attract young talent."
+      }
+    ]
+  },
+  "contacts": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Ready to start your project? Get in touch with us and let's discuss how we can help your business grow."
+    },
+    "form": {
+      "title": "Send us a message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "company": "Company",
+      "service": "Service of Interest",
+      "selectService": "Select a service",
+      "message": "Message",
+      "placeholderMessage": "Tell us about your project or requirements...",
+      "submit": "Send Message"
+    },
+    "details": {
+      "title": "Get in touch",
+      "phone": "Phone",
+      "email": "Email",
+      "office": "Office",
+      "businessHours": "Business Hours",
+      "hoursWeekdays": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "hoursSaturday": "Saturday: 10:00 AM - 2:00 PM",
+      "note": "We'll respond within 24 hours",
+      "address1": "Irkutsk, Shiryamova St., 2/13a",
+      "address2": "Russia, 664003",
+      "offices": [
+        { "city": "Moscow", "lines": ["Moscow, Yakimanka St., 15", "Russia, 119180"] },
+        { "city": "Irkutsk", "lines": ["Irkutsk, Shiryamova St., 2/13a", "Russia, 664003"] },
+        { "city": "Hong Kong", "lines": [ "Hong Kong 香港香港", "麼地道69", "尖沙咀東" ],
+        "phone": "+852-460-93-656" }
+      ]
+    },
+    "social": {
+      "title": "Follow us"
+    },
+    "map": {
+      "title": "Our Offices",
+      "subtitle": "We work in three cities: Moscow, Irkutsk, and Hong Kong. Choose the office that's convenient for you.",
+      "moscow": "Moscow",
+      "irkutsk": "Irkutsk",
+      "hongkong": "Hong Kong"
+    }
+  }
+}

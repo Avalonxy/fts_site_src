@@ -1,0 +1,1057 @@
+{
+  "pageMeta": {
+    "home": { "title": "软件开发和IT咨询", "description": "Future Tech Corp — 软件开发、IT咨询和网络安全。为APEC地区企业提供创新解决方案。" },
+    "services": { "title": "IT服务", "description": "Web开发、移动应用、云、网络安全、工业自动化和加密。全面的IT服务。" },
+    "about": { "title": "关于我们", "description": "Future Tech Corp — 专业团队。我们的历史、价值观以及在软件开发和IT咨询方面的成就。" },
+    "contacts": { "title": "联系方式", "description": "联系Future Tech Corp。莫斯科、伊尔库茨克和香港办事处。随时讨论您的项目。" },
+    "news": { "title": "新闻与活动", "description": "Future Tech Corp最新消息：项目、合作、技术和IT领域成就。" },
+    "reviews": { "title": "客户评价", "description": "企业对Future Tech Corp合作的评价。真实案例和服务质量评估。" },
+    "webDevelopment": { "title": "Web开发", "description": "使用React、Node.js、Python构建Web应用。现代技术和国内解决方案。" },
+    "mobileDevelopment": { "title": "移动开发", "description": "iOS和Android原生及跨平台应用。React Native、Flutter。" },
+    "itConsulting": { "title": "IT咨询", "description": "APEC战略规划、IT基础设施审计和业务流程优化。" },
+    "cybersecurity": { "title": "网络安全", "description": "数据保护、安全审计、信息保护系统。符合ISO 27001、GOST。" },
+    "cloudSolutions": { "title": "云解决方案", "description": "云迁移、基础设施配置。VK Cloud、Yandex、AWS、Azure和混合解决方案。" },
+    "industrialAutomation": { "title": "工业自动化", "description": "SCS安装、调试和工业系统集成。SCADA和物联网。" },
+    "cryptography": { "title": "加密与数字签名", "description": "EDS实施、加密保护、CryptoPro和ViPNet。FSB认证。" },
+    "support": { "title": "支持与维护", "description": "24/7技术支持、系统监控、维护。SLA和服务级别。" }
+  },
+  "common": {
+    "header": {
+      "home": "首页",
+      "services": "服务",
+      "about": "关于我们",
+      "news": "新闻",
+      "reviews": "评价",
+      "contacts": "联系方式",
+      "contact": "提交咨询"
+    },
+    "footer": {
+      "allRightsReserved": "版权所有",
+      "contactUs": "联系我们"
+    },
+    "buttons": {
+      "getConsultation": "获取咨询",
+      "learnMore": "了解更多",
+      "contactUs": "联系我们",
+      "allServices": "所有服务",
+      "discussProject": "讨论项目"
+    },
+    "loading": "加载中...",
+    "notFound": {
+      "title": "页面未找到",
+      "description": "抱歉，请求的页面不存在或已被移动。",
+      "backHome": "返回首页",
+      "contactSupport": "联系支持"
+    },
+    "error500": {
+      "title": "出错了",
+      "description": "发生意外错误。我们正在修复。请尝试刷新页面或稍后再试。",
+      "tryAgain": "重试",
+      "backHome": "返回首页",
+      "contactSupport": "联系支持"
+    },
+    "meta": {
+      "title": "Future Tech Corp",
+      "description": "Future Tech Corp - 您可靠的软件开发、IT咨询和网络安全合作伙伴。我们为整个亚太地区（APEC）创造创新的商业解决方案。",
+      "shortDescription": "您在整个亚太地区（APEC）软件开发、IT咨询和网络安全方面的可靠合作伙伴",
+      "keywords": "软件开发, IT咨询, 网络安全, 软件, Future Tech Corp, 亚太地区, APEC, 国内解决方案, 工业自动化, 密码学, 数字签名"
+    }
+  },
+  "home": {
+    "hero": {
+      "tag": "创新解决方案",
+      "title": "软件开发与IT咨询",
+      "subtitle": "Future Tech Corp是您在软件开发、IT咨询和网络安全方面的可靠合作伙伴。我们为整个亚太地区（APEC）的企业创造创新解决方案。",
+      "ctaPrimary": "提交申请",
+      "ctaSecondary": "了解更多服务"
+    },
+    "services": {
+      "title": "我们的主要方向",
+      "subtitle": "我们提供全方位的IT服务，助力您的业务发展，重点关注国内解决方案",
+      "items": {
+        "webDevelopment": {
+          "title": "Web应用开发",
+          "description": "使用国内技术和先进的React、Node.js、Python解决方案创建现代Web应用。"
+        },
+        "mobileDevelopment": {
+          "title": "移动开发",
+          "description": "为iOS和Android开发原生和跨平台移动应用，集成国内服务。"
+        },
+        "itConsulting": {
+          "title": "IT咨询",
+          "description": "为亚太地区公司提供战略规划、IT基础设施审计和业务流程优化。"
+        },
+        "cybersecurity": {
+          "title": "网络安全",
+          "description": "数据保护、安全审计、信息安全系统和加密解决方案的实施。"
+        },
+        "cloudSolutions": {
+          "title": "云解决方案",
+          "description": "使用国内云平台进行云迁移、云基础设施设置和优化。"
+        },
+        "industrialAutomation": {
+          "title": "工业自动化",
+          "description": "工业SCS安装、复杂技术解决方案调试和工业系统集成。"
+        },
+        "cryptography": {
+          "title": "密码学和数字签名",
+          "description": "加密解决方案实施、电子数字签名和加密提供商合作。"
+        },
+        "support": {
+          "title": "支持和维护",
+          "description": "IT系统技术支持、监控和维护，提供24/7支持。"
+        }
+      }
+    },
+    "reviews": {
+      "title": "客户评价",
+      "subtitle": "我们满意客户对我们的评价",
+      "viewAll": "所有评价",
+      "items": [
+        {
+          "name": "亚历山大·彼得罗夫",
+          "company": "JSC \"FPK\"（俄罗斯铁路子公司）",
+          "text": "Future Tech Corp团队工作出色！项目按时完成且质量很高。我对工业自动化领域的专业水平特别印象深刻。",
+          "rating": 5
+        },
+        {
+          "name": "玛丽亚·西多罗娃",
+          "company": "LLC \"KO-BIT\"",
+          "text": "解决问题的专业方法。感谢高质量的工作和对细节的关注。我们推荐作为可靠的合作伙伴。",
+          "rating": 5
+        },
+        {
+          "name": "德米特里·科兹洛夫",
+          "company": "LLC \"肾上腺素\"",
+          "text": "团队在网络安全领域表现出高水平的专业知识。项目成功实施。",
+          "rating": 5
+        },
+        {
+          "name": "李伟",
+          "company": "Knut Industries",
+          "text": "Future Tech Corp展示了对亚洲市场的深刻理解和高水平的技术专长。出色的合作！",
+          "rating": 5
+        },
+        {
+          "name": "安娜·金",
+          "company": "UTair",
+          "text": "在航空IT基础设施方面具有深厚知识的专业团队。项目以最高水平完成。",
+          "rating": 5
+        }
+      ]
+    },
+    "cta": {
+      "title": "准备开始项目？",
+      "subtitle": "联系我们讨论您的需求并获得免费咨询。我们在整个亚太地区（APEC）开展业务。",
+      "button": "获取咨询"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "我们的服务",
+      "subtitle": "我们提供全方位的IT服务，助力您的业务发展，重点关注国内解决方案。从开发到支持 - 我们在每个阶段都与您同在。我们在整个亚太地区（APEC）开展业务。"
+    },
+    "cta": {
+      "title": "需要服务咨询？",
+      "subtitle": "联系我们讨论您的需求并获得个性化报价",
+      "button": "联系我们"
+    },
+    "cryptography": {
+      "title": "密码学和数字签名",
+      "subtitle": "实施加密解决方案、EDS和数据保护，保障企业安全",
+      "features": {
+        "title": "核心方向",
+        "items": "电子数字签名, 加密保护, 与加密提供商合作, 认证与许可"
+      },
+      "areas": {
+        "title": "密码学领域",
+        "items": [
+          {
+            "area": "电子签名",
+            "description": "数字签名的实施和配置",
+            "services": ["EDS设置", "系统集成", "员工培训"]
+          },
+          {
+            "area": "加密保护",
+            "description": "使用加密保护数据和通信",
+            "services": ["数据加密", "安全通道", "密钥管理"]
+          },
+          {
+            "area": "加密提供商",
+            "description": "集成国内和国际加密提供商",
+            "services": ["CryptoPro", "ViPNet", "FSB认证", "技术支持"]
+          }
+        ]
+      },
+      "cta": {
+        "title": "准备保护您的数据？",
+        "subtitle": "联系我们讨论您的加密防护需求",
+        "button": "讨论项目"
+      }
+    },
+    "industrialAutomation": {
+      "title": "工业自动化",
+      "subtitle": "SCS安装、系统调试与工业系统集成",
+      "features": {
+        "title": "我们能做什么",
+        "items": "工业SCS安装, 系统调试, 系统集成, 保障容错"
+      },
+      "areas": {
+        "title": "自动化领域",
+        "items": [
+          {
+            "area": "SCS安装",
+            "description": "结构化布线系统建设",
+            "services": ["设计", "电缆敷设", "测试", "文档"]
+          },
+          {
+            "area": "系统调试",
+            "description": "设备启动和配置",
+            "services": ["SCADA设置", "传感器校准", "测试", "交付"]
+          },
+          {
+            "area": "系统集成",
+            "description": "工业系统与IT系统集成",
+            "services": ["OPC/DCOM", "IEC 61850", "SCADA集成", "监控"]
+          }
+        ]
+      },
+      "cta": {
+        "title": "准备自动化生产？",
+        "subtitle": "联系我们讨论您的需求",
+        "button": "讨论项目"
+      }
+    }
+  },
+  "webDevelopment": {
+    "hero": {
+      "title": "Web开发",
+      "subtitle": "使用先进技术和国内解决方案创建现代Web应用程序"
+    },
+    "features": {
+      "title": "现代Web解决方案",
+      "description": "我们使用先进技术和国内解决方案创建高负载Web应用程序。我们专门与亚太地区（APEC）的公司合作。",
+      "items": [
+        "React、Vue.js、Angular前端开发",
+        "Node.js、Python、Java后端开发",
+        "与国内服务集成"
+      ]
+    },
+    "technologies": {
+      "title": "技术和工具"
+    },
+    "process": {
+      "title": "开发流程",
+      "steps": [
+        "分析 - 我们研究需求并规划架构",
+        "设计 - 我们创建UI/UX和技术文档",
+        "开发 - 我们编写代码并集成组件",
+        "测试 - 我们进行QA并优化性能"
+      ]
+    },
+    "cta": {
+      "title": "准备创建现代Web应用程序？",
+      "subtitle": "联系我们讨论您的项目并获得咨询",
+      "button": "讨论项目"
+    }
+  },
+  "mobileDevelopment": {
+    "hero": {
+      "title": "移动开发",
+      "subtitle": "为iOS和Android开发原生和跨平台移动应用程序"
+    },
+    "features": {
+      "title": "全平台移动应用程序",
+      "description": "我们为iOS和Android开发原生和跨平台移动应用程序。我们集成国内服务并适应APEC地区的要求。",
+      "items": [
+        "Swift和Objective-C的iOS开发",
+        "Kotlin和Java的Android开发",
+        "React Native、Flutter跨平台开发"
+      ]
+    },
+    "platforms": {
+      "title": "平台和技术",
+      "items": [
+        {
+          "platform": "iOS",
+          "features": ["Swift", "Objective-C", "Xcode", "App Store"],
+          "description": "iPhone和iPad的原生应用程序"
+        },
+        {
+          "platform": "Android",
+          "features": ["Kotlin", "Java", "Android Studio", "Google Play"],
+          "description": "Android设备的原生应用程序"
+        },
+        {
+          "platform": "跨平台",
+          "features": ["React Native", "Flutter", "Xamarin", "Ionic"],
+          "description": "所有平台的单一代码"
+        }
+      ]
+    },
+    "process": {
+      "title": "开发流程",
+      "steps": [
+        "分析 - 我们研究需求并选择平台",
+        "设计 - 我们为移动设备创建UI/UX",
+        "开发 - 我们编写代码并集成API",
+        "测试 - 我们在真实设备上测试",
+        "发布 - 我们发布到App Store和Google Play"
+      ]
+    },
+    "cta": {
+      "title": "准备创建移动应用程序？",
+      "subtitle": "联系我们讨论您的移动项目",
+      "button": "讨论项目"
+    }
+  },
+  "itConsulting": {
+    "hero": {
+      "title": "IT咨询",
+      "subtitle": "战略IT基础设施规划和业务流程优化"
+    },
+    "features": {
+      "title": "战略IT基础设施规划",
+      "description": "我们帮助亚太地区（APEC）的公司优化IT流程并实施现代技术以提高业务效率。",
+      "items": [
+        "现有IT基础设施审计",
+        "战略数字化转型规划",
+        "业务流程优化"
+      ]
+    },
+    "areas": {
+      "title": "咨询领域",
+      "items": [
+        {
+          "area": "IT战略",
+          "description": "为您的公司制定长期IT战略",
+          "services": ["现状分析", "发展规划", "风险评估"]
+        },
+        {
+          "area": "架构",
+          "description": "企业IT架构设计",
+          "services": ["微服务架构", "云解决方案", "系统集成"]
+        },
+        {
+          "area": "安全",
+          "description": "IT安全审计与提升",
+          "services": ["漏洞评估", "安全策略", "标准合规"]
+        }
+      ]
+    },
+    "apec": {
+      "title": "APEC地区专业化",
+      "description": "我们深入了解亚太国家开展业务的特点，并适应我们的解决方案以满足当地要求和标准。",
+      "regions": [
+        "中国和香港",
+        "日本和韩国",
+        "新加坡和马来西亚",
+        "澳大利亚和新西兰"
+      ]
+    },
+    "process": {
+      "title": "咨询流程",
+      "steps": [
+        "诊断 - 我们分析当前IT状态",
+        "规划 - 我们制定发展战略",
+        "实施 - 我们帮助实施变更",
+        "支持 - 我们提供长期支持"
+      ]
+    },
+    "cta": {
+      "title": "需要IT战略咨询？",
+      "subtitle": "联系我们获得专业咨询",
+      "button": "获得咨询"
+    }
+  },
+  "cybersecurity": {
+    "hero": {
+      "title": "网络安全",
+      "subtitle": "防范现代网络威胁和信息安全"
+    },
+    "features": {
+      "title": "防范现代网络威胁",
+      "description": "我们提供数据和信息系统的全面保护。我们实施国内解决方案并适应APEC地区的要求。",
+      "items": [
+        "信息系统安全审计",
+        "信息保护系统实施",
+        "加密解决方案和数字签名"
+      ]
+    },
+    "services": {
+      "title": "网络安全服务",
+      "items": [
+        {
+          "service": "安全审计",
+          "description": "IT基础设施安全综合评估",
+          "features": ["渗透测试", "漏洞分析", "风险评估"]
+        },
+        {
+          "service": "数据保护",
+          "description": "实施机密信息保护系统",
+          "features": ["数据加密", "DLP系统", "访问控制"]
+        },
+        {
+          "service": "威胁监控",
+          "description": "全天候监控和事件响应",
+          "features": ["SIEM系统", "威胁分析", "快速响应"]
+        }
+      ]
+    },
+    "compliance": {
+      "title": "符合标准和要求的合规性",
+      "standards": [
+        { "name": "ISO 27001", "description": "信息安全管理体系" },
+        { "name": "GOST R", "description": "俄罗斯信息安全标准" },
+        { "name": "GDPR", "description": "欧盟个人数据保护" },
+        { "name": "APEC", "description": "亚太地区要求" }
+      ]
+    },
+    "process": {
+      "title": "安全提供流程",
+      "steps": [
+        "分析 - 我们评估当前风险",
+        "规划 - 我们制定保护策略",
+        "实施 - 我们安装保护系统",
+        "测试 - 我们检查有效性",
+        "监控 - 我们控制安全"
+      ]
+    },
+    "cta": {
+      "title": "准备保护您的业务？",
+      "subtitle": "联系我们进行安全审计和咨询",
+      "button": "获得咨询"
+    }
+  },
+  "cloudSolutions": {
+    "hero": {
+      "title": "云解决方案",
+      "subtitle": "云迁移和云基础设施优化"
+    },
+    "features": {
+      "title": "云迁移和优化",
+      "description": "我们帮助公司过渡到云端，优化云基础设施并使用国内云平台来提高效率。",
+      "items": [
+        "现有系统迁移到云端",
+        "云基础设施设置和优化",
+        "使用国内云平台"
+      ]
+    },
+    "platforms": {
+      "title": "云平台",
+      "items": [
+        {
+          "platform": "国内",
+          "icon": "🇷🇺",
+          "description": "我们使用俄罗斯云解决方案",
+          "services": ["VK Cloud", "Yandex Cloud", "SberCloud", "MTS Cloud"]
+        },
+        {
+          "platform": "国际",
+          "icon": "🌍",
+          "description": "与国外平台集成",
+          "services": ["AWS", "Microsoft Azure", "Google Cloud", "Alibaba Cloud"]
+        },
+        {
+          "platform": "混合",
+          "icon": "🔗",
+          "description": "我们结合不同的云解决方案",
+          "services": ["多云", "系统集成", "数据迁移", "备份"]
+        }
+      ]
+    },
+    "services": {
+      "title": "云服务",
+      "items": [
+        {
+          "service": "云迁移",
+          "icon": "🚀",
+          "description": "我们帮助将您的系统迁移到云环境",
+          "steps": ["当前基础设施分析", "迁移规划", "分阶段转移", "测试和优化"]
+        },
+        {
+          "service": "云基础设施",
+          "icon": "🏗️",
+          "description": "我们构建和配置云基础设施",
+          "steps": ["架构设计", "服务部署", "安全配置", "监控和支持"]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "云解决方案优势",
+      "items": [
+        { "benefit": "可扩展性", "description": "随着增长轻松增加资源" },
+        { "benefit": "成本节约", "description": "降低IT基础设施成本" },
+        { "benefit": "安全性", "description": "提高数据保护水平" },
+        { "benefit": "可访问性", "description": "提供从世界任何地方的访问" }
+      ]
+    },
+    "migration": {
+      "title": "云迁移流程",
+      "steps": [
+        "分析 - 我们研究当前基础设施",
+        "规划 - 我们制定迁移策略",
+        "准备 - 我们准备云环境",
+        "迁移 - 我们逐步迁移系统",
+        "测试 - 我们检查功能",
+        "优化 - 我们配置性能"
+      ]
+    },
+    "cta": {
+      "title": "准备迁移到云端？",
+      "subtitle": "联系我们进行云解决方案咨询",
+      "button": "获得咨询"
+    }
+  },
+  "support": {
+    "hero": {
+      "title": "支持和维护",
+      "subtitle": "24/7技术支持和IT系统维护"
+    },
+    "features": {
+      "title": "24/7技术支持",
+      "description": "我们提供IT系统的全天候支持和维护。监控、预防和快速问题解决，确保您的业务不间断运行。",
+      "items": [
+        "全天候系统监控",
+        "预防性维护",
+        "快速响应事件"
+      ]
+    },
+    "services": {
+      "title": "支持服务",
+      "items": [
+        {
+          "service": "技术支持",
+          "description": "解决技术问题和咨询",
+          "features": ["远程支持", "电话咨询", "在线聊天", "电子邮件支持"]
+        },
+        {
+          "service": "系统监控",
+          "description": "全天候系统运行控制",
+          "features": ["性能监控", "问题警报", "事件记录", "状态报告"]
+        },
+        {
+          "service": "预防性维护",
+          "description": "计划性维护和更新",
+          "features": ["计划检查", "软件更新", "系统清理", "性能优化"]
+        }
+      ]
+    },
+    "levels": {
+      "title": "支持级别",
+      "items": [
+        { "level": "基础", "response": "24小时", "description": "电子邮件支持、知识库" },
+        { "level": "标准", "response": "8小时", "description": "电话支持、远程访问" },
+        { "level": "高级", "response": "4小时", "description": "优先支持、专用工程师" },
+        { "level": "VIP", "response": "1小时", "description": "全天候支持、SLA保证" }
+      ]
+    },
+    "monitoring": {
+      "title": "监控和报告",
+      "description": "我们提供有关系统状态和服务质量的详细信息",
+      "metrics": [
+        { "metric": "响应时间", "value": "< 15分钟" },
+        { "metric": "可用性", "value": "99.9%" },
+        { "metric": "解决时间", "value": "< 4小时" },
+        { "metric": "满意度", "value": "98%" }
+      ]
+    },
+    "process": {
+      "title": "支持流程",
+      "steps": [
+        "请求 - 我们接收支持请求",
+        "分类 - 我们确定优先级和类别",
+        "分配 - 我们分配负责工程师",
+        "解决 - 我们执行必要工作",
+        "关闭 - 我们检查结果并关闭工单"
+      ]
+    },
+    "cta": {
+      "title": "需要可靠支持？",
+      "subtitle": "联系我们讨论系统支持条款",
+      "button": "讨论支持"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "关于公司",
+      "subtitle": "Future Tech Corp是一支专业团队，为您的业务发展创造创新的IT解决方案"
+    },
+    "story": {
+      "title": "我们的故事",
+      "text1": "Future Tech Corp成立于2018年，由一群经验丰富的IT专家组成，目标是为企业创造优质的技术解决方案。",
+      "text2": "多年来，我们实施了50多个不同复杂度的项目，从简单的网站到复杂的企业系统和移动应用程序。我们专门与亚太地区（APEC）公司合作。",
+      "text3": "我们的使命是帮助公司使用现代技术、最佳开发实践和国内解决方案成长和发展。",
+      "highlight": {
+        "title": "从初创到领导者",
+        "text": "我们从一个小的开发团队开始，今天我们是各种规模公司的可靠合作伙伴。"
+      }
+    },
+    "stats": {
+      "title": "数字说明一切",
+      "subtitle": "我们的成就数字",
+      "projects": "已完成项目",
+      "experience": "年经验",
+      "clients": "满意客户",
+      "support": "支持"
+    },
+    "values": {
+      "title": "我们的价值观",
+      "subtitle": "指导我们工作的原则",
+      "quality": {
+        "title": "质量",
+        "description": "我们在质量上不妥协。每个项目都以最大的注意力完成。"
+      },
+      "reliability": {
+        "title": "可靠性",
+        "description": "我们基于信任和履行义务与客户建立长期关系。"
+      },
+      "innovation": {
+        "title": "创新",
+        "description": "我们不断监控新技术并将其实施到为客户提供的解决方案中。"
+      },
+      "result": {
+        "title": "结果",
+        "description": "我们专注于为客户实现可衡量的结果和商业价值。"
+      }
+    },
+    "team": {
+      "title": "我们的团队",
+      "subtitle": "在IT行业拥有多年经验的专业人士",
+      "members": [
+        {
+          "name": "Danila Goncharov",
+          "position": "首席执行官兼创始人",
+          "description": "IT行业15年以上经验，企业解决方案专家",
+          "photo": "/images/team/ceo_main.jpg"
+        },
+        {
+          "name": "Maria Rainer",
+          "position": "首席技术官",
+          "description": "云技术和工业自动化专家",
+          "photo": "/images/team/team-1.jpg"
+        },
+        {
+          "name": "Dmitry Verkhosin",
+          "position": "开发主管",
+          "description": "全栈开发人员，精通现代框架",
+          "photo": "/images/team/team-3.jpg"
+        }
+      ]
+    },
+    "clients": {
+      "title": "我们的客户",
+      "subtitle": "来自各个行业和地区的公司信任我们",
+      "items": [
+        {
+          "name": "JSC \"FPK\"（俄罗斯铁路子公司）",
+          "description": "铁路基础设施的工业自动化和SCS安装"
+        },
+        {
+          "name": "LLC \"KO-BIT\"",
+          "description": "IT咨询和数字化转型服务"
+        },
+        {
+          "name": "LLC \"肾上腺素\"",
+          "description": "网络安全和信息保护系统"
+        },
+        {
+          "name": "Knut Industries（香港）",
+          "description": "云解决方案和移动应用程序开发"
+        },
+        {
+          "name": "UTair",
+          "description": "航空IT基础设施和系统集成"
+        }
+      ]
+    },
+    "cta": {
+      "title": "准备与我们合作？",
+      "subtitle": "加入满意的Future Tech Corp客户行列。我们在整个亚太地区（APEC）开展业务。让我们一起创造令人惊叹的东西！",
+      "contact": "联系我们",
+      "services": "我们的服务"
+    }
+  },
+  "industrialAutomation": {
+    "hero": {
+      "tag": "工业解决方案",
+      "title": "工业自动化",
+      "subtitle": "我们专门为亚太地区企业提供工业SCS安装、复杂技术解决方案调试和工业系统集成。",
+      "ctaPrimary": "获取咨询",
+      "ctaSecondary": "所有服务"
+    },
+    "services": {
+      "title": "我们的工业自动化服务",
+      "subtitle": "工业过程自动化的全方位服务",
+      "items": {
+        "cabling": {
+          "title": "工业SCS安装",
+          "description": "为工业设施设计和安装结构化布线系统，包括工厂、工厂和生产综合体。",
+          "features": [
+            "工业条件SCS设计",
+            "电缆路由和电缆安装",
+            "有源设备安装和配置",
+            "SCS测试和认证"
+          ]
+        },
+        "commissioning": {
+          "title": "复杂系统调试",
+          "description": "工业自动化技术复杂解决方案的调试和调试。",
+          "features": [
+            "工业控制器配置",
+            "SCADA系统集成",
+            "工业网络配置",
+            "系统测试和验证"
+          ]
+        },
+        "integration": {
+          "title": "工业系统集成",
+          "description": "将各种工业系统集成到统一的生产管理自动化环境中。",
+          "features": [
+            "与现有系统集成",
+            "创建统一控制面板",
+            "配置数据交换协议",
+            "确保容错性"
+          ]
+        }
+      }
+    },
+    "advantages": {
+      "title": "为什么选择我们",
+      "subtitle": "我们在工业自动化方面的优势",
+      "items": [
+        "与大型工业设施合作的经验",
+        "工业自动化认证专家",
+        "使用国内和进口解决方案",
+        "从设计到调试的完整周期",
+        "启动后24/7技术支持"
+      ]
+    },
+    "cta": {
+      "title": "准备自动化生产？",
+      "subtitle": "联系我们讨论您的工业自动化任务",
+      "button": "讨论项目"
+    }
+  },
+  "mainServices": {
+    "hero": {
+      "title": "我们的服务",
+      "subtitle": "我们为您的业务发展提供全方位的IT服务，重点关注国内解决方案。从开发到支持 - 我们在每个阶段都与您同在。我们在整个亚太地区（APEC）工作。"
+    },
+    "cta": {
+      "title": "需要服务咨询？",
+      "subtitle": "联系我们讨论您的任务并获得专业咨询",
+      "button": "获得咨询"
+    }
+  },
+  "cryptography": {
+    "hero": {
+      "tag": "加密解决方案",
+      "title": "密码学和数字签名",
+      "subtitle": "实施加密解决方案、电子数字签名和与加密提供商合作，确保您业务的信息安全。",
+      "ctaPrimary": "获取咨询",
+      "ctaSecondary": "所有服务"
+    },
+    "services": {
+      "title": "我们的密码学服务",
+      "subtitle": "为您的安全提供全方位的加密解决方案",
+      "items": {
+        "ecp": {
+          "title": "电子数字签名（EDS）",
+          "description": "实施和配置电子数字签名系统，确保电子文档的法律效力。",
+          "features": [
+            "选择和配置加密提供商",
+            "与现有系统集成",
+            "配置证书和密钥",
+            "员工EDS工作培训"
+          ]
+        },
+        "protection": {
+          "title": "加密保护",
+          "description": "实施加密解决方案以保护机密信息并确保信息安全。",
+          "features": [
+            "数据和通信通道加密",
+            "API和Web服务保护",
+            "VPN和安全连接配置",
+            "加密保护审计"
+          ]
+        },
+        "providers": {
+          "title": "与加密提供商合作",
+          "description": "为各种任务集成和配置国内和国外加密提供商。",
+          "features": [
+            "与CryptoPro、VipNet集成",
+            "配置国外提供商",
+            "加密提供商之间的迁移",
+            "技术支持和更新"
+          ]
+        },
+        "certification": {
+          "title": "认证和许可",
+          "description": "协助获得使用加密手段所需的许可证和证书。",
+          "features": [
+            "准备FSB认证",
+            "获得加密许可证",
+            "合规性审计",
+            "检查期间的支持"
+          ]
+        }
+      }
+    },
+    "useCases": {
+      "title": "我们解决方案的应用",
+      "subtitle": "各种行业的加密解决方案",
+      "items": {
+        "banking": {
+          "title": "银行业",
+          "description": "银行交易保护、文档管理EDS、API加密保护。"
+        },
+        "government": {
+          "title": "政府部门",
+          "description": "电子文档管理EDS、政府信息系统保护。"
+        },
+        "corporate": {
+          "title": "企业部门",
+          "description": "企业信息保护、合同EDS、云解决方案加密保护。"
+        },
+        "apec": {
+          "title": "亚太地区",
+          "description": "根据APEC要求调整解决方案，与当地加密标准集成。"
+        }
+      }
+    },
+    "advantages": {
+      "title": "为什么选择我们",
+      "subtitle": "我们在密码学方面的优势",
+      "items": [
+        "与国内加密提供商合作的经验",
+        "密码学认证专家",
+        "符合俄罗斯立法要求",
+        "与国外解决方案集成",
+        "实施和支持的完整周期"
+      ]
+    },
+    "cta": {
+      "title": "准备保护您的数据？",
+      "subtitle": "联系我们讨论您的加密保护任务",
+      "button": "讨论项目"
+    }
+  },
+  "reviews": {
+    "hero": {
+      "title": "客户评价",
+      "subtitle": "我们满意客户对我们的评价。我们为每个项目感到自豪，感谢合作伙伴的信任。"
+    },
+    "section": {
+      "title": "客户评价",
+      "subtitle": "来自我们客户的真实评价，关于工作质量和项目结果"
+    },
+    "verified": "已验证评价",
+    "stats": {
+      "title": "我们的成就",
+      "subtitle": "数字说明了我们服务的质量",
+      "satisfaction": "满意客户",
+      "projects": "已完成项目",
+      "clients": "常驻客户",
+      "rating": "平均评分"
+    },
+    "cta": {
+      "title": "成为下一个满意客户！",
+      "subtitle": "加入已经欣赏我们服务质量和团队专业精神的公司的行列",
+      "contact": "提交申请",
+      "services": "我们的服务"
+    }
+  },
+  "news": {
+    "hero": {
+      "title": "新闻和事件",
+      "subtitle": "了解Future Tech Corporation的最新消息、我们的项目和技术世界的成就"
+    },
+    "categories": {
+      "all": "全部",
+      "business": "商业",
+      "technology": "技术",
+      "partnerships": "合作伙伴关系",
+      "innovation": "创新",
+      "aviation": "航空",
+      "certification": "认证"
+    },
+    "featured": {
+      "title": "推荐新闻",
+      "subtitle": "来自技术世界和我们项目的最重要和最有趣的内容",
+      "featured": "推荐"
+    },
+    "readMore": "阅读更多",
+    "loadMore": "加载更多",
+    "newsletter": {
+      "title": "订阅新闻",
+      "subtitle": "直接获取最新新闻和有用材料到您的邮箱",
+      "placeholder": "your@email.com",
+      "subscribe": "订阅"
+    },
+    "backToNews": "返回新闻",
+    "viewServices": "我们的服务",
+    "contactUs": "联系我们",
+    "related": {
+      "title": "相关新闻",
+      "subtitle": "您可能对这些文章感兴趣",
+      "comingSoon": "相关新闻将很快出现在这里"
+    },
+    "notFound": {
+      "title": "新闻未找到",
+      "subtitle": "请求的新闻不存在或已被删除。"
+    },
+    "cta": {
+      "title": "准备合作？",
+      "subtitle": "联系我们讨论您的项目并获得咨询",
+      "contact": "联系我们",
+      "services": "我们的服务"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Future Tech Corp在香港开设新办公室",
+        "excerpt": "扩大在亚太地区的存在，为APEC客户提供更好的服务",
+        "category": "business",
+        "date": "2025-01-15",
+        "image": "/images/news/news-img-1.jpg",
+        "featured": true,
+        "content": "Future Tech Corp宣布在香港开设新办公室，这将使我们能够更好地为亚太地区（APEC）的客户提供服务。新办公室将成为我们在该地区运营的中心，使我们能够更有效地与当地合作伙伴和客户合作。\n\n在香港开设办公室是我们扩大在APEC关键地区存在战略的一部分。我们计划雇用当地专家并与当地技术社区建立密切联系。\n\n这一步将使我们能够为该地区的客户提供更个性化的服务，并加速我们解决方案的实施。"
+      },
+      {
+        "id": 2,
+        "title": "网络安全领域的新技术",
+        "excerpt": "根据国际标准实施先进的数据保护解决方案",
+        "category": "technology",
+        "date": "2025-01-10",
+        "image": "/images/news/news-img-2.jpg",
+        "featured": false,
+        "content": "Future Tech Corp正在实施网络安全领域的最新技术，包括用于威胁检测的机器学习、行为分析和先进的加密方法。\n\n我们的解决方案符合国际安全标准，包括ISO 27001、NIST网络安全框架和APEC地区监管要求。我们使用国产加密算法与国外技术相结合，确保最大程度的保护。\n\n我们解决方案的关键特性包括自动异常检测、智能威胁分析和与现有客户安全系统的集成。"
+      },
+      {
+        "id": 3,
+        "title": "与领先云提供商的合作",
+        "excerpt": "为我们的客户扩展云解决方案能力",
+        "category": "partnerships",
+        "date": "2025-01-05",
+        "image": "/images/news/news-img-3.jpg",
+        "featured": false,
+        "content": "我们正在扩大与领先云提供商的合作伙伴网络，包括国内平台和国际解决方案。这使我们的客户能够为其任务选择最佳的云解决方案。\n\n我们的合作伙伴关系涵盖各种云服务：从基础设施解决方案到机器学习和分析的专业平台。我们确保不同云平台之间的无缝集成。\n\n对于APEC地区的客户，我们提供混合解决方案，结合本地云平台与国际服务，以确保符合当地要求并优化性能。"
+      },
+      {
+        "id": 4,
+        "title": "航空业的创新解决方案",
+        "excerpt": "为航空公司开发专门的IT解决方案",
+        "category": "aviation",
+        "date": "2024-12-28",
+        "image": "/images/news/news-img-4.jpg",
+        "featured": false,
+        "content": "Future Tech Corp为航空业开发专门的IT解决方案，包括飞行管理系统、数据分析和安全增强解决方案。\n\n我们的航空解决方案包括智能航线规划系统、燃油效率优化以及与国际航空安全系统的集成。我们与APEC地区的领先航空公司合作。\n\n关键项目包括开发飞行数据分析系统、与气象服务集成以及创建乘客体验管理平台。"
+      },
+      {
+        "id": 5,
+        "title": "获得ISO 27001认证",
+        "excerpt": "确认信息安全的高水平",
+        "category": "certification",
+        "date": "2024-12-20",
+        "image": "/images/news/news-img-5.jpg",
+        "featured": false,
+        "content": "Future Tech Corp已成功通过ISO 27001认证，确认了我们信息安全和风险管理的高水平。\n\nISO 27001认证向我们的客户证明我们遵守国际信息安全标准。这对于与APEC地区的客户合作特别重要，因为数据安全要求不断收紧。\n\n我们的信息安全管理体系包括定期审计、员工培训和持续的过程改进。我们还准备帮助我们的客户获得类似的认证。"
+      },
+      {
+        "id": 6,
+        "title": "工业自动化领域的新能力",
+        "excerpt": "实施生产流程自动化的现代解决方案",
+        "category": "innovation",
+        "date": "2024-12-15",
+        "image": "/images/news/news-img-6.jpg",
+        "featured": false,
+        "content": "我们正在通过实施现代技术来扩展工业自动化能力，包括物联网、机器学习和生产过程的数字孪生。\n\n我们的工业自动化解决方案包括实时设备监控系统、用于预防停机的预测分析以及与现有工业系统的集成。\n\n我们与各个行业的企业合作：从石油天然气到机械工程。我们的解决方案适应俄罗斯和国际工业自动化标准的要求。"
+      },
+      {
+        "id": 7,
+        "title": "APEC地区移动解决方案的发展",
+        "excerpt": "使移动应用程序适应亚洲市场要求",
+        "category": "technology",
+        "date": "2024-12-10",
+        "image": "/images/news/news-img-7.jpg",
+        "featured": false,
+        "content": "Future Tech Corp正在积极开发适应亚洲市场要求的移动解决方案。我们考虑当地用户特征，包括语言偏好和文化特征。\n\n我们的移动解决方案包括电子商务应用程序、金融服务和企业工具。我们使用现代开发技术，包括React Native和Flutter进行跨平台开发。\n\n对于APEC地区，我们开发支持本地支付系统、与流行消息应用程序集成以及适应该地区流行的各种屏幕尺寸的解决方案。"
+      },
+      {
+        "id": 8,
+        "title": "与俄罗斯IT公司的战略合作",
+        "excerpt": "在俄罗斯IT服务市场加强地位",
+        "category": "partnerships",
+        "date": "2024-12-05",
+        "image": "/images/news/news-img-8.jpg",
+        "featured": false,
+        "content": "我们正在加强与领先俄罗斯IT公司的战略合作伙伴关系，以共同开发创新解决方案并扩大在俄罗斯市场的存在。\n\n我们的合作伙伴关系包括共同开发国内技术解决方案、专业知识交流以及参与重大政府和企业项目。\n\n我们专注于开发符合进口替代要求同时保持与国际标准兼容性的解决方案。这使我们的客户能够获得最佳可用解决方案。"
+      },
+      {
+        "id": 9,
+        "title": "密码学和EDS领域的创新",
+        "excerpt": "开发数字签名和加密的新解决方案",
+        "category": "innovation",
+        "date": "2024-11-28",
+        "image": "/images/news/news-img-9.jpg",
+        "featured": false,
+        "content": "Future Tech Corp在密码学和电子数字签名领域开发创新解决方案，包括抗量子算法和新的身份验证方法。\n\n我们的密码解决方案包括密钥管理系统、与国内加密提供商的集成以及为各个行业开发专门的密码协议。\n\n我们致力于开发能够抵抗未来威胁的解决方案，包括量子计算。我们的开发包括结合经典和后量子算法的混合密码系统。"
+      },
+      {
+        "id": 10,
+        "title": "扩大开发团队",
+        "excerpt": "邀请有才华的专业人士加入我们的团队",
+        "category": "business",
+        "date": "2024-11-20",
+        "image": "/images/news/news-img-10.jpg",
+        "featured": false,
+        "content": "Future Tech Corp正在积极扩大其开发团队，邀请有才华的专业人士加入我们的团队。我们正在寻找各个领域的专业人士：从前端和后端开发到机器学习和网络安全专家。\n\n我们提供有竞争力的工作条件、使用现代技术的机会以及参与有趣的国际项目。我们的团队在办公室和远程工作，为员工提供灵活性。\n\n我们特别关注专家发展，提供培训、参加会议和使用尖端技术的机会。我们还积极与领先的技术大学合作，吸引年轻人才。"
+      }
+    ]
+  },
+  "contacts": {
+    "hero": {
+      "title": "联系我们",
+      "subtitle": "准备开始您的项目了吗？请联系我们，让我们讨论如何帮助您的业务增长。"
+    },
+    "form": {
+      "title": "给我们留言",
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "email": "电子邮箱",
+      "company": "公司",
+      "service": "感兴趣的服务",
+      "selectService": "选择服务",
+      "message": "留言",
+      "placeholderMessage": "请告诉我们您的项目或需求...",
+      "submit": "发送消息"
+    },
+    "details": {
+      "title": "保持联系",
+      "phone": "电话",
+      "email": "电子邮箱",
+      "office": "办公室",
+      "businessHours": "工作时间",
+      "hoursWeekdays": "周一 - 周五：9:00 - 18:00",
+      "hoursSaturday": "周六：10:00 - 14:00",
+      "note": "我们将在24小时内回复",
+      "address1": "伊尔库茨克，希里亚莫娃街 2/13a",
+      "address2": "俄罗斯，664003",
+      "offices": [
+        { "city": "莫斯科", "lines": ["莫斯科，雅基曼卡街 15", "俄罗斯，119180"] },
+        { "city": "伊尔库茨克", "lines": ["伊尔库茨克，希里亚莫娃街 2/13a", "俄罗斯，664003"] },
+        { "city": "香港", "lines": ["香港香港", "麼地道69", "尖沙咀東" ], "phone": "+852-460-93-656" } ]
+    },
+    "social": {
+      "title": "关注我们"
+    },
+    "map": {
+      "title": "我们的办公室",
+      "subtitle": "我们在三个城市工作：莫斯科、伊尔库茨克和香港。选择适合您的办公室。",
+      "moscow": "莫斯科",
+      "irkutsk": "伊尔库茨克",
+      "hongkong": "香港"
+    }
+  }
+}
