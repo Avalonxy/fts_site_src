@@ -14,14 +14,14 @@ const transporter = nodemailer.createTransport({
   }
 });
 
-// Альтернативная конфигурация для внешнего SMTP (если нужна)
+// Конфа для внешнего SMTP (если нужна будет)
 const externalTransporter = nodemailer.createTransport({
   host: process.env.SMTP_HOST || 'smtp.fts77.ru',
   port: parseInt(process.env.SMTP_PORT || '587'),
   secure: false,
   auth: {
     user: process.env.SMTP_USER || 'noreply@fts77.ru',
-    pass: process.env.SMTP_PASSWORD || 'your_password_here'
+    pass: process.env.SMTP_PASSWORD || 'password_ТУТ'
   }
 });
 
